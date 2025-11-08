@@ -1,4 +1,4 @@
-# Cyber Security Roadmap — خارطة طريق للأمن السيبراني
+# Cyber Security Roadmap 
 
 **Created by Omar**
 
