@@ -1,13 +1,13 @@
 # Cyber Security Roadmap — خارطة طريق للأمن السيبراني
 
-**Created by Omar** / إعداد: عمر
+**Created by Omar**
 
 ---
 
 ## Table of Contents
 1. [Overview / نظرة عامة](#overview--نظرة-عامة)  
-2. [Quick Roadmap (Steps) / الخريطة السريعة](#quick-roadmap-steps--الخريطة-السريعة)  
-3. [30 / 60 / 90 Plan / خطة 30/60/90 يوم](#30--60--90-plan--خطة-306090-يوم)  
+2. [Quick Roadmap (Steps)](#quick-roadmap-steps--الخريطة-السريعة)  
+3. [30 / 60 / 90 Plan ](#30--60--90-plan--خطة-306090-يوم)  
 4. [Study Checklist (per step) / قائمة مراجعة لكل خطوة](#study-checklist-per-step--قائمة-مراجعة-لكل-خطوة)  
 5. [Practice & CTF Workflow / التدريب واستراتيجية الـCTF](#practice--ctf-workflow--التدريب-واستراتيجية-الctf)  
 6. [Resources / المصادر](#resources--المصادر)  
