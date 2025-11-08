@@ -1,6 +1,6 @@
 # Cyber Security Roadmap (Beginner → Intermediate)
 
-## Overview (short)
+## Overview 
 A practical learning path:
 1. Foundations: Networking, Operating Systems
 2. Programming: Python (recommended), JavaScript (for web)
