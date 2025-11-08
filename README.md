@@ -1,4 +1,4 @@
-# Birds Can't Fly — Cyber Security Roadmap
+# Omar Abdelsalam — Cyber Security Roadmap
 
 This repository contains a beginner-friendly roadmap for starting a career in Cyber Security.
 It was created to support a YouTube video and social posts by the Birds Can't Fly team.
