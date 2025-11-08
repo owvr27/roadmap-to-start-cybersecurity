@@ -42,9 +42,4 @@ A practical learning path:
 
 ---
 
-## Tips for the YouTube Video
-- Start with a high-level visual roadmap.
-- Show short clips: an Nmap scan, a basic Python script, a TryHackMe room, a CTF scoreboard (your team #62).
-- Add clear next steps and 30/60/90-day learning plans.
-- Invite viewers to join your Discord/GitHub for follow-up resources.
 
